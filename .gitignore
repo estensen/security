@@ -1,7 +1,9 @@
 ### macOS ###
 *.DS_Store
+*.txt
 
 ### Python ###
 __pycache__/
 *.py[cod]
 *$py.class
+
